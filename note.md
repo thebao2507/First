@@ -6,3 +6,4 @@
 - git add: chuẩn bị lưu 1 file trong repo
 - git add . : chuẩn bị lưu all file trong repo
 - git reset: hoàn lại các tác vụ đã lưu khi gõ git add
+- git commit: hoàn chỉnh việc lưu file và đẩy lên github, đại diện cho dự án đang ở đâu và tới chức năng gì
