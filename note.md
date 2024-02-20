@@ -1,5 +1,6 @@
 # terms
     Repository (Repo) : kho lưu trữ, thư mục
+    Branch: cành, nhánh
 # command
 - git init: khởi tạo 1 git repository
 - git status: trạng thái của các thay đổi trong repo
@@ -10,3 +11,6 @@
 - git log: coi lại các thời điểm đã commit
 - git log --oneline
 - git checkout <id>: trở lại phiên trước khi commit
+- git checkout {branch name}: trả về nhánh làm việc hiện tại (hiện tại có thể là master)
+- git branch: show các branch hiện có
+- git checkout -b {branch name}: tạo ra 1 branch mới
