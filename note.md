@@ -14,3 +14,5 @@
 - git checkout {branch name}: trả về nhánh làm việc hiện tại (hiện tại có thể là master)
 - git branch: show các branch hiện có
 - git checkout -b {branch name}: tạo ra 1 branch mới
+- git merge {branch name}: hợp branch lại với nhau
+- git branch -d {branch name}: xoá 1 branch
