@@ -24,3 +24,6 @@
 - example:
     git remote add origin https://github.com/thebao2507/First.git 
     git push origin {branch name}
+
+
+- git push -u origin {branch name}: đấy 1 nhánh branch lên git remote
