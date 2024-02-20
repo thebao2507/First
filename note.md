@@ -2,6 +2,8 @@
     Repository (Repo) : kho lưu trữ, thư mục
     Branch: cành, nhánh
     Conflict: xung đột
+    Local
+    Remote
 # command
 - git init: khởi tạo 1 git repository
 - git status: trạng thái của các thay đổi trong repo
@@ -17,3 +19,4 @@
 - git checkout -b {branch name}: tạo ra 1 branch mới
 - git merge {branch name}: hợp branch lại với nhau
 - git branch -d {branch name}: xoá 1 branch
+- git push: đẩy dự án từ local repo lên github remote
