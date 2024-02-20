@@ -20,3 +20,7 @@
 - git merge {branch name}: hợp branch lại với nhau
 - git branch -d {branch name}: xoá 1 branch
 - git push: đẩy dự án từ local repo lên github remote
+
+- example:
+    git remote add origin https://github.com/thebao2507/First.git 
+    git push origin {branch name}
