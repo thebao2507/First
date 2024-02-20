@@ -30,3 +30,5 @@
 - lấy 1 nhánh branch có sẵn từ github về:
     + git fetch origin
     + git checkout -b {branch name} origin/{branch name}
+
+- git pull: lấy về các thay đổi trên remote
